@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+.characterGrid {
+    background-color: rgb(229, 120, 237);
+    filter: saturate(80%);
+    position: relative;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    width: 320px;
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    transition: filter 0.5s ease-in-out;
+    flex-direction: column;
+    
+}
+
+
